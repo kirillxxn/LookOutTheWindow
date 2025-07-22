@@ -1,13 +1,28 @@
-# Project_Posmotri_V_Okno
-## Проект "Посмотри в окно"
-### git@github.com:kirillxxn/Project_Posmotri_v_Okno.git
-:white_circle:  ***Ссылка на репозиторий проекта :arrow_right: https://github.com/kirillxxn/Project_Posmotri_v_Okno***
-_____
-:white_circle: ***Ссылка на опубликованный проект в GitHub-Pages :arrow_right: https://kirillxxn.github.io/Project_Posmotri_v_Okno/***
-_____
-[![](https://imageup.ru/img224/4707168/snimok-ekrana-111.jpg)](https://imageup.ru/img224/4707168/snimok-ekrana-111.jpg.html)
-_____
-[![](https://imageup.ru/img2/4707169/snimok-ekrana-112.jpg)](https://imageup.ru/img2/4707169/snimok-ekrana-112.jpg.html)
-_____
-[![](https://imageup.ru/img81/4707171/snimok-ekrana-113.jpg)](https://imageup.ru/img81/4707171/snimok-ekrana-113.jpg.html)
-_____
+# LookOutTheWindow 🔍
+
+**LookOutTheWindow** — это веб-приложение,для просмотра вида из окна из разных городов
+
+***
+
+## 🚀 Возможности
+
+- 🔍 Поиск городов
+- 🌃 Выбор времени суток
+- 📹 Просмотр видео
+
+  
+***
+
+## 🛠️ Технологии
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
+</p>
+
+***
+
+## 📸 Пример работы проекта
+  <div align="center">
+      <img height="100%" width="100%" src="./demoproject/LookOutTheWindow.gif"  />
+    </div>
